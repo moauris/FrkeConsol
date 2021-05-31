@@ -1,0 +1,15 @@
+﻿CREATE TABLE IF NOT EXISTS TblInterlockInitialData (
+DataEntryID INTEGER PRIMARY KEY ASC,
+DataEntryKey CHARACTER(12),
+Jan DECIMAL(10, 2),
+Feb DECIMAL(10, 2),
+Mar DECIMAL(10, 2),
+Apr DECIMAL(10, 2),
+May DECIMAL(10, 2),
+Jun DECIMAL(10, 2),
+Jul DECIMAL(10, 2),
+Aug DECIMAL(10, 2),
+Sep DECIMAL(10, 2),
+Oct Decimal(10, 2),
+Nov Decimal(10, 2),
+Dec Decimal(10, 2));
