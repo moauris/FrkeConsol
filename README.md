@@ -1,0 +1,2 @@
+# FrkeConsol
+Furikae Consolidator
